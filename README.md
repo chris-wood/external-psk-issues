@@ -4,9 +4,14 @@
 
 TODO: implementation difficulties, differentiating between stack and application developers. (Maybe summarize existing stack behavior?)
 
+Stack implementation: XXX
+Application implementation: XXX
+
 # PSK Provisioning Mechanisms
 
-TODO: what's done in practice?
+- Secrets synced out of band.
+- Secrets baked into software or hardware devices.
+- XXX
 
 # External PSK Privacy Properties
 
